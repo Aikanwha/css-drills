@@ -1,0 +1,45 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #c1c3c7;
+}
+
+.readme-wrapper,
+h2,
+p {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #eb5f1a;
+}
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: #a82020;
+}
+span {
+    color:darkmagenta;
+    font-weight:bolder;
+}
+.boxes {
+    display: block;
+    margin: 25px;
+    padding: 25px;
+    border-style: solid;
+    border-radius: 30px;
+    width: 30em;
+    border-color: aqua;
+}
+#box1 {
+background-color:beige ;
+}
+#box2 {
+    background-color: violet;
+}
+#box3{
+    background-color: cadetblue;
+}
+#box4{
+    background-color:seagreen;
+}
